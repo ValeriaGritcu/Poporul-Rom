@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Eagle+Lake&display=swap');
+body {
+    background-color: rgb(255, 110, 115);
+}
+
+.statis1 {
+    width: 50%;
+    float: left;
+}
+td, th, table {
+    margin: auto;
+    border: 2px solid rgb(45, 0, 0);
+    text-align: left;
+}
+td, th {
+    /* padding-right: 70px; */
+    padding: 10px 100px 10px 10px;
+}
+
+p {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.statis2 {
+    float: left;
+    width: 40%;
+    background-color: aqua;
+}
+
+.tradi {
+    clear: left;
+}
+
+h4 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: "Eagle Lake", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: "Eagle Lake", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.hash1 {
+margin-top: 100px;
+padding: 50px;
+font-size: 70px;
+text-align: center;
+font-family: "Eagle Lake", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+    text-align: center;
+}
+
+.tradi {
+    margin-left: 12%;
+    padding-top: 2%;
+
+}
+.metode {
+    margin-left: 12%;
+    padding-top: 2%;
+}
+
